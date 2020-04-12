@@ -38,6 +38,6 @@ public izbrisiStudenti() {
 	}
 
 public static void display(){
-System.out.println();
+System.out.println();  
 }
 }
