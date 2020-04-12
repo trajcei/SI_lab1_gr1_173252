@@ -25,7 +25,7 @@ List<Integer> labPoints = new ArrayList<Integer>() {{ } };
 class Course {
 List<String> Studenti = new ArrayList<String>() {{ } };
 
-Course(){}
+Course(){} 
 
 public dodadiStudenti() {
 //asd
